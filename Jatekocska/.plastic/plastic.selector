@@ -1,0 +1,4 @@
+repository "Jatekocska@lambinoo@cloud"
+  path "/"
+    br "/main"
+    co "/main"
